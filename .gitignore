@@ -4,3 +4,9 @@ venv/
 #*.jpg
 static/tmp.jpg
 *.pyc
+pyvenv.cfg
+
+Lib/
+Scripts/
+yolov5/
+share/
